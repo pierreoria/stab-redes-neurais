@@ -7,16 +7,13 @@ Despite the prevalence and significance of tabular data across numerous industri
 ## Reference
 Please cite:
 
-@misc{voskou2024transformersstochasticcompetitiontabular,
-      title={Transformers with Stochastic Competition for Tabular Data Modelling}, 
-      author={Andreas Voskou and Charalambos Christoforou and Sotirios Chatzis},
-      year={2024},
-      eprint={2407.13238},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2407.13238}, 
+@inproceedings{voskou2024transformers,
+  title={Transformers with Stochastic Competition for Tabular Data Modelling},
+  author={Voskou, Andreas and Christoforou, Charalambos and Chatzis, Sotirios},
+  booktitle={ICML 2024 Workshop on Structured Probabilistic Inference $\{$$\backslash$\&$\}$ Generative Modeling}
 }
 
+paper link: https://arxiv.org/pdf/2407.13238
 
 **Note:** The code is currently in an experimental version. 
 
