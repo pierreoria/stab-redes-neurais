@@ -10,7 +10,7 @@ Please cite:
 @inproceedings{voskou2024transformers,
   title={Transformers with Stochastic Competition for Tabular Data Modelling},
   author={Voskou, Andreas and Christoforou, Charalambos and Chatzis, Sotirios},
-  booktitle={ICML 2024 Workshop on Structured Probabilistic Inference $\{$$\backslash$\&$\}$ Generative Modeling}
+  booktitle={ICML 2024 Workshop on Structured Probabilistic Inference $$\backslash$\&$ Generative Modeling}
 }
 
 paper link: https://arxiv.org/pdf/2407.13238
